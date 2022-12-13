@@ -33,3 +33,6 @@
 
 git config ­­global user.name "Mariya Palabuzheva" 
 git config ­­global user.email mariyahorses@yandex.ru
+
+# my photo.png
+
