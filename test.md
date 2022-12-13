@@ -28,3 +28,8 @@
  ## Подготовка к работе с Git
 
 Для начала работы следует установить git с официального сайта по инструкции: http://git­scm.com/downloads
+
+**Далее следует *представится* гиту**
+
+git config ­­global user.name "Mariya Palabuzheva" 
+git config ­­global user.email mariyahorses@yandex.ru
