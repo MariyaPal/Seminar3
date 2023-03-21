@@ -55,3 +55,5 @@ git config ­­global user.email mariyahorses@yandex.ru
 **git branch -d 'name branch'**
 
 Изменение 1
+
+Изменение 2
