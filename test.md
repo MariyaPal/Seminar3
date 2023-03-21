@@ -57,3 +57,5 @@ git config ­­global user.email mariyahorses@yandex.ru
 Изменение 1
 
 Изменение 2
+
+Изменение 3
