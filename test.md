@@ -59,3 +59,8 @@ git config ­­global user.email mariyahorses@yandex.ru
 Изменение 2
 
 Изменение 3
+
+Строки для конфликта 
+1
+2
+3
