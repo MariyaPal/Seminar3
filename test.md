@@ -53,3 +53,5 @@ git config ­­global user.email mariyahorses@yandex.ru
 
 Для удаления ветки
 **git branch -d 'name branch'**
+
+Изменение 1
